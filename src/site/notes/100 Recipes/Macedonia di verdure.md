@@ -5,7 +5,7 @@
 # Macedonia di verdure
 Note: A seconda delle verdure, si possono fare tutte in forno nella stessa teglia.
 ## Ingredients
-- [ ] verdure miste: carote, piselli, patate, zucca, sedano, funghi, cetriolo, zucchine, peperone, fagiolini, pomodori, cipolle
+- [ ] verdure miste (carote, piselli, patate, zucca, sedano, funghi, cetriolo, zucchine, peperone, fagiolini, pomodori, cipolle…)
 - [ ] olio
 - [ ] sale
 - [ ] prezzemolo fresco
