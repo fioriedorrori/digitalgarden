@@ -11,7 +11,7 @@ Proporzione della maizena è 30% del peso delle patate
 - [ ] maizena
 - [ ] sale
 - [ ] formaggio grattugiato
-- [ ] aromi per le patate (prezzemolo, salvia)**
+- [ ] aromi per le patate (prezzemolo, salvia)*
 - [ ] formaggio filante
 - [ ] ripieno (affettati, verdure cotte, carne macinata)
 ## Steps
