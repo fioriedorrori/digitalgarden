@@ -3,7 +3,7 @@
 ---
 
 # Salsa ai broccoli
-Note: la besciamella va un po’ liquida, quindi con il burro e la farina al 60% rispetto al liquido
+Note: La [[200 Extras/Besciamella\|besciamella]] deve essere liquida, usa 60g di farina/burro per 1l di acqua di cottura
 ## Ingredients
 - [ ] broccoli
 - [ ] aglio
