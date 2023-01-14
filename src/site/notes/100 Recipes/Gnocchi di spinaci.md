@@ -16,3 +16,7 @@ anche la farina va al 30%, aumentando a seconda dell'umidità degli spinaci
 3. Aggiungi una manciata di sale e la farina. Lavora l'impasto a mano. Se rimane appicicoso aggiungi farina, ma attenzione perchè troppa farina, o lavorando troppo l'impasto, gli gnocchi diventeranno gommosi. Quando toccandolo con un dito pulito non si attacca, è giusto.
 4. Cuoci gli spinaci in padella con un filo d'olio ed aglio.
 5. Rimuovi più succo possibile dagli spinaci e tritali finemente o frullali.
+6. Aggiungi gli spinaci alle patate, impasta per bene.
+7.  Prendi un po' di impasto alla volta e, su un piano di lavoro spolverato con semola o farina, forma un sigaro di diametro 2cm circa. Con un tarocco taglia dei quadrotti regolari.
+5. Immergi gli gnocchi in acqua bollente salata. Sono pronti quando vengono a galla.
+6.  Trasferisci in una padella dove hai già scaldato la salsa di condimento e salta gli gnocchi insieme ad essa in modo che assorbano il sapore per bene ("risottare").
