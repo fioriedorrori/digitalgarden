@@ -3,7 +3,7 @@
 ---
 
 # Salsa ai broccoli
-Note: la besciamella va un po’ liquida, quindi con il burro e la farina al 60% rispetto al liquido 
+Note: la besciamella va un po’ liquida, quindi con il burro e la farina al 60% rispetto al liquido
 ## Ingredients
 - [ ] broccoli
 - [ ] aglio
