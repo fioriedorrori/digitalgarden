@@ -12,4 +12,5 @@
 ## Steps
 1. Prepara una pentola alta e stretta con dell’acqua e mettila sul fuoco.
 2. Aggiungi tutti gli ingredienti.
-3. Assicurati che il pesce sia già pronto quando inizia a bollire, e metticelo dentro.
+3. Assicurati che il pesce sia già pulito e pronto quando il brodo inizia a bollire, e metticelo dentro.
+4. Cuoci 10-20 min al massimo.
