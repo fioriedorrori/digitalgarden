@@ -3,8 +3,8 @@
 ---
 
 # Lista ricette
-Gli ingredienti con un asterisco a fianco non sono obbligatori.
 Le ricette di colore chiaro non sono ancora state scritte.
+Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 09-01-2023
 - [[300 Notes/Molluschi\|Molluschi]]
 - [[100 Recipes/Cozze gratinate\|Cozze gratinate]]
