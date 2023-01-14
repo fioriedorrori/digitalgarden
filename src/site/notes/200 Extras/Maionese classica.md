@@ -11,7 +11,7 @@ usa uova pastorizzate o consuma entro la giornata
 - [ ] succo di limone o aceto
 - [ ] sale
 - [ ] senape
-- [ ] aromi: acciughe, capperi, aglio, prezzemolo, basilico, etc...
+- [ ] aromi (acciughe, capperi, aglio, prezzemolo, basilico…)
 ## Steps
 1. Metti tutti gli ingredienti (eccetto eventuali aromi) in un contenitore alto e stretto. ATTENZIONE, vacci piano con l'acido.
 2. Frulla con il frullatore a immersione facendo movimenti verticali, finchè la maionese non diventa cremosa.
