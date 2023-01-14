@@ -20,7 +20,6 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Carbonara\|Carbonara]]
 - [[Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
 - [[100 Recipes/Salsa ai broccoli\|Salsa ai broccoli]]
-- [[100 Recipes/Salsa alla bolognese\|Salsa alla bolognese]]
 - [[200 Extras/Salsa di peperoni\|Salsa di peperoni]]
 - [[100 Recipes/Meringhe\|Meringhe]]
 ## 15-12-2022
