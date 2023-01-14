@@ -5,9 +5,9 @@
 # Gnocchi ripieni
 Combinations: esterno patata, interno spinaci; esterno spinaci, interno ricotta.
 ## Ingredients
-- [ ] [[100 Recipes/Gnocchi di patate\|Gnocchi di patate]]
-- [ ] [[100 Recipes/Gnocchi di spinaci\|Gnocchi di spinaci]]
-- [ ] [[100 Recipes/Gnocchi di ricotta\|Gnocchi di ricotta]]
+- [ ] impasto per [[100 Recipes/Gnocchi di patate\|Gnocchi di patate]]
+- [ ] impasto per [[100 Recipes/Gnocchi di spinaci\|Gnocchi di spinaci]]
+- [ ] impasto per [[100 Recipes/Gnocchi di ricotta\|Gnocchi di ricotta]]
 - [ ] semola o farina 00 per il piano
 ## Steps
 1. Con un mattarello, stendi su un piano di lavoro l'impasto che andrà a racchiudere il ripieno. Deve avere uno spessore di pochi mm.
