@@ -16,7 +16,8 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Grissini alle olive\|Grissini alle olive]]
 ## 23-12-2022
 - [[300 Notes/Precottura della pasta\|Precottura della pasta]]
-- [[Salsa al pomodoro\|Salsa al pomodoro]]
+- [[200 Extras/Salsa di pomodoro\|Salsa di pomodoro]]
+- [[100 Recipes/Carbonara\|Carbonara]]
 - [[Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
 - [[100 Recipes/Salsa ai broccoli\|Salsa ai broccoli]]
 - [[100 Recipes/Salsa alla bolognese\|Salsa alla bolognese]]
@@ -31,7 +32,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[Salsa rosa\|Salsa rosa]]
 - [[100 Recipes/Salsa ai formaggi\|Salsa ai formaggi]]
 - [[100 Recipes/Salsa alla bolognese\|Salsa alla bolognese]]
-- [[200 Extras/Salsa di noci\|Salsa di noci]]
+- [[200 Extras/Salsa alle noci\|Salsa alle noci]]
 ## 14-12-2022
 - [[100 Recipes/Rotolo di patata ripieno\|Rotolo di patata ripieno]]
 - [[100 Recipes/Gateau di patate\|Gateau di patate]]
@@ -42,7 +43,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Crocchette di patate\|Crocchette di patate]]
 ## 07-12-2022
 - [[100 Recipes/Macedonia di verdure\|Macedonia di verdure]]
-- [[200 Extras/Maionese classica\|Maionese classica]]
+- [[200 Extras/Maionese\|Maionese]]
 - [[100 Recipes/Insalata russa\|Insalata russa]]
 - [[100 Recipes/Funghi trifolati\|Funghi trifolati]] con patate
 - [[100 Recipes/Patata a spicchio al rosmarino\|Patata a spicchio al rosmarino]]
