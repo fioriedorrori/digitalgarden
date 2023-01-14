@@ -14,7 +14,7 @@ Note: queste quantità producono circa 7 porzioni
 - [ ] 2 tuorli
 - [ ] sale
 - [ ] noce moscata
-- [ ] salsa di pomodoro*
+- [ ] [[200 Extras/Salsa di pomodoro\|salsa di pomodoro]]*
 ## Steps
 1. Metti a scaldare acqua e latte con 40g di burro. Aggiungi sale e noce moscata e lascia sciogliere il burro.
 2. Quando sta per bollire, aggiungi il semolino e mescola intensamente, finchè l'impasto si asciuga e forma una palla.
