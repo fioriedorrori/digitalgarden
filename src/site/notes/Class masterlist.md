@@ -9,7 +9,7 @@
 - [x] [[100 Recipes/Pinzimonio\|Pinzimonio]]
 - [x] [[100 Recipes/Melanzane grigliate\|Melanzane grigliate]]
 - [ ] Melanzane fritte
-- [ ] [[100 Recipes/Peperonata\|Peperonata]]
+- [x] [[100 Recipes/Peperonata\|Peperonata]]
 ## 07-12-2022
 - [x] [[100 Recipes/Macedonia di verdure\|Macedonia di verdure]]
 - [x] [[200 Extras/Maionese classica\|Maionese classica]]
@@ -23,7 +23,7 @@
 - [x] [[100 Recipes/Gateau di patate\|Gateau di patate]]
 - [x] [[100 Recipes/Fonduta\|Fonduta]]
 - [ ] [[100 Recipes/Frittata di verdure\|Frittata di verdure]]
-- [ ] [[100 Recipes/Patate fritte\|Patate fritte]]
+- [ ] [[100 Recipes/Patate chips fritte\|Patate chips fritte]]
 - [ ] [[100 Recipes/Patate alla lionese\|Patate alla lionese]]
 - [ ] [[100 Recipes/Crocchette di patate\|Crocchette di patate]]
 ## 15-12-2022
