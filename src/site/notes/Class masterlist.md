@@ -29,7 +29,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Gnocchi ripieni\|Gnocchi ripieni]]
 - [[100 Recipes/Gnocchi di spinaci\|Gnocchi di spinaci]]
 - [[100 Recipes/Gnocchi di patate\|Gnocchi di patate]]
-- [[Salsa rosa\|Salsa rosa]]
+- [[200 Extras/Salsa rosa\|Salsa rosa]]
 - [[100 Recipes/Salsa ai formaggi\|Salsa ai formaggi]]
 - [[100 Recipes/Salsa alla bolognese\|Salsa alla bolognese]]
 - [[200 Extras/Salsa alle noci\|Salsa alle noci]]
