@@ -18,7 +18,3 @@ Note: un uovo ogni 100g di farina
 6. Avvolgi sempre l’impasto nella pellicola quando non lo stai usando. Non lasciarlo all’aria. Se hai la macchina per la pasta, usala per creare le sfoglie, altrimenti usa un mattarello su un piano infarinato (pochissimo, devi aggiungere meno farina possibile). Lo spessore finale dovrebbe essere di mezzo mm.
 7. Una volta tagliata nella forma desiderata, stendila su dei canovacci  e coprila con altri canovacci mentre cuoci. Falla riposare il meno possibile.
 8. Cuoci in acqua bollente salata. Ci vuole pochissimo, e quando è pronta salirà a galla. Se devi fare le lasagne, non è necessario pre-cuocerle in acqua.
-## Uses
-- [[100 Recipes/Lasagna ai frutti di mare\|Lasagna ai frutti di mare]]
-- [[100 Recipes/Lasagne\|Lasagne]]
-
