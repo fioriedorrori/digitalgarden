@@ -9,7 +9,7 @@ Oven: 180°
 - [ ] cipolle
 - [ ] olio evo
 - [ ] sale
-- [ ] condimento: salsa di pomodoro, [[200 Extras/Besciamella\|Besciamella]], burro e prezzemolo
+- [ ] condimento (salsa di pomodoro, [[200 Extras/Besciamella\|Besciamella]], burro e prezzemolo)
 ## Steps
 1. Sbuccia e sbollenta le patate. Devono rimanere sode.
 2. Tagliale a medaglioni spessi 0.5-1cm.
