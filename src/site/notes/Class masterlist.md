@@ -3,6 +3,8 @@
 ---
 
 # Lista ricette
+Gli ingredienti con un asterisco a fianco non sono obbligatori.
+Le ricette di colore chiaro non sono ancora state scritte.
 ## 09-01-2023
 - [[300 Notes/Molluschi\|Molluschi]]
 - [[100 Recipes/Cozze gratinate\|Cozze gratinate]]
@@ -32,7 +34,6 @@
 - [[100 Recipes/Salsa alla bolognese\|Salsa alla bolognese]]
 - [[200 Extras/Salsa di noci\|Salsa di noci]]
 ## 14-12-2022
-- [[100 Recipes/Gnocchi di patate\|Gnocchi di patate]]
 - [[100 Recipes/Rotolo di patata ripieno\|Rotolo di patata ripieno]]
 - [[100 Recipes/Gateau di patate\|Gateau di patate]]
 - [[100 Recipes/Fonduta\|Fonduta]]
