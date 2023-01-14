@@ -13,7 +13,7 @@ Note: queste quantità producono circa 7 porzioni
 - [ ] 80g + 20g formaggio grattuggiato
 - [ ] 2 tuorli
 - [ ] sale
-- [ ] noce moscata*
+- [ ] noce moscata
 - [ ] salsa di pomodoro*
 ## Steps
 1. Metti a scaldare acqua e latte con 40g di burro. Aggiungi sale e noce moscata e lascia sciogliere il burro.
