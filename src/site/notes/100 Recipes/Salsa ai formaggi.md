@@ -3,7 +3,7 @@
 ---
 
 # Salsa ai formaggi
-La [[200 Extras/Besciamella\|besciamella]] deve essere liquida, usa una ratio di 60:60:1l
+Note: La [[200 Extras/Besciamella\|besciamella]] deve essere liquida, usa 60g di farina/burro per 1l di latte
 ## Ingredients
 - [ ] farina 00
 - [ ] burro
