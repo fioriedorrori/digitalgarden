@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/class-masterlist/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/class-masterlist/","tags":["gardenEntry"],"dgShowToc":false}
 ---
 
 # Guide
