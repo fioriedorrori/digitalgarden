@@ -2,14 +2,16 @@
 {"dg-publish":true,"permalink":"/class-masterlist/","tags":["gardenEntry"]}
 ---
 
+# Guide
+[[300 Notes/Precottura della pasta\|Precottura della pasta]]
+[[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
+[[300 Notes/Lievitazione\|Lievitazione]]
 # Lista ricette
 Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 16-01-2023
-- Lievitazione
 - [[100 Recipes/Impasto per pizza\|Impasto per pizza]]
 ## 09-01-2023
-- [[300 Notes/Molluschi\|Molluschi]]
 - [[100 Recipes/Cozze gratinate\|Cozze gratinate]]
 - [[200 Extras/Court-bouillon\|Court-bouillon]]
 - [[100 Recipes/Ciuffi di moscardini in insalata\|Ciuffi di moscardini in insalata]]
@@ -18,7 +20,6 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Totani ripieni su crema di lenticchie\|Totani ripieni su crema di lenticchie]]
 - [[100 Recipes/Grissini alle olive\|Grissini alle olive]]
 ## 23-12-2022
-- [[300 Notes/Precottura della pasta\|Precottura della pasta]]
 - [[200 Extras/Salsa di pomodoro\|Salsa di pomodoro]]
 - [[100 Recipes/Carbonara\|Carbonara]]
 - [[Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
