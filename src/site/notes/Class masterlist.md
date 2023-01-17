@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/class-masterlist/","tags":["gardenEntry"],"dgShowToc":false}
+{"dg-publish":true,"permalink":"/class-masterlist/","tags":["gardenEntry"]}
 ---
 
 # Guide
 [[300 Notes/Precottura della pasta\|Precottura della pasta]]
 [[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
-[[300 Notes/Lievitazione\|Lievitazione]]
+Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
@@ -22,7 +22,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 23-12-2022
 - [[200 Extras/Salsa di pomodoro\|Salsa di pomodoro]]
 - [[100 Recipes/Carbonara\|Carbonara]]
-- [[Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
+- [[200 Extras/Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
 - [[100 Recipes/Salsa ai broccoli\|Salsa ai broccoli]]
 - [[200 Extras/Salsa di peperoni\|Salsa di peperoni]]
 - [[100 Recipes/Meringhe\|Meringhe]]
