@@ -3,7 +3,7 @@
 ---
 
 # Impasto per pizza
-Oven: 250°
+Oven: 250° (ventilato)
 ## Note
 - La quantità di lievito di birra è molto alta perchè abbiamo fatto una lievitazione accelerata; per 500g di farina puoi mettere tra i 2.5 e i 12.5 grammi di lievito a seconda di quanto deve lievitare e a quale temperatura
 - Se vuoi fare delle pizzette, tagliale con un coppapasta prima di metterle a lievitare
