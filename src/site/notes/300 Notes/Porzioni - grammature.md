@@ -16,7 +16,7 @@ Il peso indicato si intende per la pasta prima di essere cotta; nel caso di brod
 ## Paste saltate
 Le paste saltate non fanno differenza tra secche e fresche; la grammatura è scelta in base al volume che occupano nel piatto.
 - Pasta lunga → *60-80g*
-- Pasta corta  →*80-100g*
+- Pasta corta  → *80-100g*
 - Pasta ripiena → *150-200g*
 # Secondi
 Tra il secondo di pesce (servito prima perchè ha un sapore più delicato) e quello di carne, va servito un amuse buche per pulire la bocca.
