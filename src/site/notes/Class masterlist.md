@@ -3,6 +3,10 @@
 ---
 
 # Guide
+[[Menu\|Menu]]
+[[Stoccaggio\|Stoccaggio]]
+[[300 Notes/Surgelati e congelati\|Surgelati e congelati]]
+[[Pasta\|Pasta]]
 [[300 Notes/Porzioni - grammature\|Porzioni - grammature]]
 [[300 Notes/Precottura della pasta\|Precottura della pasta]]
 [[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
