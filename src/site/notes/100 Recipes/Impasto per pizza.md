@@ -23,7 +23,7 @@ Forno: 250° (ventilato)
 5. Quando l’impasto è omogeneo, puoi aggiungere anche il grasso.
 6. Continua a lavorare finchè l’impasto diventa bianco, liscio ed elastico. Forma una palla.
 7. Prepara un contenitore ben unto e mettici la palla di impasto, ungendola lievemente. Copri con pellicola trasparente a contatto, in modo che nessuna parte dell’impasto tocchi l’aria. Metti a lievitare a 38° finché non duplica il volume.
-8. Dai la forma all’impasto lievitato, fai lievitare una seconda volta (circa 1/5 del tempo della prima lievitazione) e cucina come desideri:
+8. Dai la forma all’impasto lievitato, fai lievitare una seconda volta (circa 1/5 del tempo della prima lievitazione) e procedi:
 	- per una ==pizza classica==, puoi semplicemente condirla, fare seconda lievitazione, e metterla in forno a 250° per 12-15 min.
 	- per le ==pizzette==, non fare la prima lievitazione ma stendi l'impasto a uno spessore di mezzo centimetro e taglia delle formine tonde. Spennella la superficie con un mix di acqua e olio e metti a lievitare. Quando si sono gonfiate, fai quattro fossette con le dita in modo che ci sia posto per piú condimento, condisci come vuoi (sconsigliata la mozzarella, fa troppa acqua e cola via) e inforna a 250° per 10 min.
 	- per una ==pizza fritta==, dai una forma rotonda all’impasto e friggi in olio a 180° per 1-2 min per lato. Lascia raffreddare, condisci come una pizza normale e metti in forno a 250° per pochi minuti.
