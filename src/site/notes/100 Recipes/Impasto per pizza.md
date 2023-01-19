@@ -5,7 +5,7 @@
 # Impasto per pizza
 Forno: 250° (ventilato)
 ## Note
-- La quantità di lievito di birra è molto alta perchè abbiamo fatto una lievitazione accelerata; per 500g di farina puoi mettere tra i 2.5 e i 12.5 grammi di lievito a seconda di quanto deve lievitare e a quale temperatura
+- La quantità di lievito di birra è molto alta perchè abbiamo fatto una lievitazione accelerata; per 250g di farina puoi mettere tra i 2.5 e i 12.5 grammi di lievito a seconda di quanto deve lievitare e a quale temperatura
 - Sostituzione: se non hai manitoba puoi sostituire con farina 00
 ## Ingredients
 - [ ] 150g manitoba o altra farina forte (W alta)
