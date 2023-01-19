@@ -3,7 +3,10 @@
 ---
 
 # Guide
+[[300 Notes/Menu\|Menu]]
+[[300 Notes/Stoccaggio\|Stoccaggio]]
 [[300 Notes/Surgelati e congelati\|Surgelati e congelati]]
+[[300 Notes/Pasta\|Pasta]] – [[300 Notes/Riso\|Riso]]
 [[300 Notes/Porzioni - grammature\|Porzioni - grammature]]
 [[300 Notes/Precottura della pasta\|Precottura della pasta]]
 [[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
@@ -11,6 +14,8 @@ Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di
 # Lista ricette
 Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 18-01-2023
+- [[100 Recipes/Arancini di riso\|Arancini di riso]]
 ## 16-01-2023
 - [[100 Recipes/Impasto per pizza\|Impasto per pizza]]
 ## 09-01-2023
