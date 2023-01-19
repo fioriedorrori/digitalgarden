@@ -3,10 +3,9 @@
 ---
 
 # Impasto per pizza
-Oven: 250° (ventilato)
+Forno: 250° (ventilato)
 ## Note
 - La quantità di lievito di birra è molto alta perchè abbiamo fatto una lievitazione accelerata; per 500g di farina puoi mettere tra i 2.5 e i 12.5 grammi di lievito a seconda di quanto deve lievitare e a quale temperatura
-- Se vuoi fare delle pizzette, tagliale con un coppapasta prima di metterle a lievitare
 - Sostituzione: se non hai manitoba puoi sostituire con farina 00
 ## Ingredients
 - [ ] 150g manitoba o altra farina forte (W alta)
@@ -26,6 +25,7 @@ Oven: 250° (ventilato)
 7. Prepara un contenitore ben unto e mettici la palla di impasto, ungendola lievemente. Copri con pellicola trasparente a contatto, in modo che nessuna parte dell’impasto tocchi l’aria. Metti a lievitare a 38° finché non duplica il volume.
 8. Dai la forma all’impasto lievitato, fai lievitare una seconda volta (circa 1/5 del tempo della prima lievitazione) e cucina come desideri:
 	- per una ==pizza classica==, puoi semplicemente condirla, fare seconda lievitazione, e metterla in forno a 250° per 12-15 min.
+	- per le ==pizzette==, non fare la prima lievitazione ma stendi l'impasto a uno spessore di mezzo centimetro e taglia delle formine tonde. Spennella la superficie con un mix di acqua e olio e metti a lievitare. Quando si sono gonfiate, fai quattro fossette con le dita in modo che ci sia posto per piú condimento, condisci come vuoi (sconsigliata la mozzarella, fa troppa acqua e cola via) e inforna a 250 per 10 min.
 	- per una ==pizza fritta==, prima dai la forma all’impasto e fai la seconda lievitazione. Poi friggi  in abbondante olio a 180° per 1 min per lato. Lascia raffreddare, condisci come una pizza normale e metti in forno a 250° per 10 min.
 	- per un ==calzone fritto==, farcisci con quello che vuoi (un po’ di pan grattato assorbe i liquidi degli ingredienti più acquosi), chiudi bene e procedi come per la pizza fritta.
 	- per un ==rotolo==, stendi un rettangolo di impasto, metti il ripieno in una riga sulla parte inferiore e arrotolalo verso l’alto. Fai lievitare una seconda volta e cuoci come la pizza classica
