@@ -7,7 +7,7 @@ Note: il ragù va fatto il giorno prima e messo in frigo, in modo che si asciugh
 Per un chilo di riso ci vanno 1-2g di zafferano.
 ## Ingredients
 - [ ] riso semifino
-- [ ] zafferano*
+- [ ] zafferano
 - [ ] ripieno (prosciutto e formaggio, ragù con piselli, spinaci e mozzarella…)
 - [ ] farina
 - [ ] uova
