@@ -23,4 +23,4 @@ Per un chilo di riso ci vanno 1-2g di zafferano.
 7. Bagna le mani a prendi una manciata di riso, spalmandola sulla mano sinistra. Metti il ripieno al centro, chiudi la mano sinistra a conchiglia e prendi un altro po’ di riso per chiudere bene e formare una palla aiutandoti con la destra.
 8. Passa la palla nella farina, poi nell’uovo, e infine nel pangrattato, campattando bene la forma alla fine.
 9. Abbatti nuovamente gli arancini: se vanno in frittura ancora caldi si romperanno.
-10. Scalda abbondante olio di semi a 180° e friggi gli arancini finchè diventano arancioni, disponendoli su carta assorbente una volta rimossi dall’olio.
+10. Scalda abbondante olio di semi a 180° e friggi gli arancini finchè diventano arancio dorato, disponendoli su carta assorbente una volta rimossi dall’olio.
