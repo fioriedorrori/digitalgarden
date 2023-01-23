@@ -16,8 +16,8 @@ Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 20-01-2023
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
-- Ragù di agnello
-- Salsa ai funghi e gambero nero
+- [[200 Extras/Ragù di agnello\|Ragù di agnello]]
+- [[200 Extras/Salsa ai funghi e gambero nero\|Salsa ai funghi e gambero nero]]
 ## 18-01-2023
 - [[100 Recipes/Arancini di riso\|Arancini di riso]]
 ## 16-01-2023
