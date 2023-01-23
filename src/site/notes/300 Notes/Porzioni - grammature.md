@@ -19,7 +19,7 @@ Le paste saltate non fanno differenza tra secche e fresche; la grammatura è sce
 - Pasta corta  → *80-100g*
 - Pasta ripiena → *150-200g*
 # Secondi
-Tra il secondo di pesce (servito prima perchè ha un sapore più delicato) e quello di carne, va servito un amuse buche per pulire la bocca.
+Tra il secondo di pesce (servito prima perchè ha un sapore più delicato) e quello di carne, va servito una pietanza per pulire la bocca.
 - Pesce
 	- Intero (con interiora e lisca) → *250-400g*
 	- Sfilettato (pulito) → *120-180g*
