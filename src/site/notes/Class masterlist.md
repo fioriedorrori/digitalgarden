@@ -14,9 +14,13 @@ Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di
 # Lista ricette
 Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 24-01-2023
+- Ragù di salsiccia e carciofi
+- Salsa ai funghi
+- Salsa ai carciofi
 ## 20-01-2023
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
-- [[200 Extras/Ragù di agnello\|Ragù di agnello]]
+- [[200 Extras/Ragù bianco di agnello\|Ragù bianco di agnello]]
 - [[200 Extras/Salsa ai funghi e gambero nero\|Salsa ai funghi e gambero nero]]
 ## 18-01-2023
 - [[100 Recipes/Arancini di riso\|Arancini di riso]]
