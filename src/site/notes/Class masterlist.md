@@ -18,7 +18,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Cannelloni con ragù di salsiccia e carciofi\|Cannelloni con ragù di salsiccia e carciofi]]
 - Pappardelle con salsa ai funghi
 - Maltagliati con salsa ai carciofi
-- Tagliatelle [[salsa alla Norma\|alla Norma]]
+- Tagliatelle [[100 Recipes/Salsa alla Norma\|alla Norma]]
 ## 20-01-2023
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
 - [[200 Extras/Ragù bianco di agnello\|Ragù bianco di agnello]]
