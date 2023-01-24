@@ -15,13 +15,15 @@ Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di
 Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 24-01-2023
-- Ragù di salsiccia e carciofi
-- Salsa ai funghi
-- Salsa ai carciofi
+- [[100 Recipes/Cannelloni con ragù di salsiccia e carciofi\|Cannelloni con ragù di salsiccia e carciofi]]
+- Pappardelle con salsa ai funghi
+- Maltagliati con salsa ai carciofi
+- Tagliatelle [[salsa alla Norma\|alla Norma]]
 ## 20-01-2023
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
 - [[200 Extras/Ragù bianco di agnello\|Ragù bianco di agnello]]
 - [[200 Extras/Salsa ai funghi e gambero nero\|Salsa ai funghi e gambero nero]]
+- [[100 Recipes/Bisque\|Bisque]]
 ## 18-01-2023
 - [[100 Recipes/Arancini di riso\|Arancini di riso]]
 ## 16-01-2023
@@ -31,7 +33,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[200 Extras/Court-bouillon\|Court-bouillon]]
 - [[100 Recipes/Ciuffi di moscardini in insalata\|Ciuffi di moscardini in insalata]]
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
-- [[100 Recipes/Lasagna ai frutti di mare\|Lasagna ai frutti di mare]]
+- Lasagna ai frutti di mare
 - [[100 Recipes/Totani ripieni su crema di lenticchie\|Totani ripieni su crema di lenticchie]]
 - [[100 Recipes/Grissini alle olive\|Grissini alle olive]]
 ## 23-12-2022
