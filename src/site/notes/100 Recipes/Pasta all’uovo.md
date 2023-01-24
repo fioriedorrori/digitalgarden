@@ -3,12 +3,12 @@
 ---
 
 # Pasta all’uovo
-Note: un uovo ogni 100g di farina
+Note: un uovo M ogni 100g di farina
+Per legge la pasta all’uovo deve avere almeno 200g di uova su 1kg di farina. Se usi solo tuorli, aggiungi acqua fino ad arrivare al 50% del peso della farina.
 ## Ingredients
 - [ ] 100g semola
 - [ ] 100g farina 00
 - [ ] 2 uova
-- [ ] 1 pizzico sale
 ## Steps
 1. Setaccia le due farine su un piano di lavoro ampio.
 2. Crea una fontana al centro e rompici le uova dentro, spolvera sopra il sale.
