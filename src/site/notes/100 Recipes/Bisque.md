@@ -18,7 +18,7 @@ L’acqua dev’essere circa il doppio del peso rispetto agli scarti, in ogni ca
 - [ ] olio oliva
 ## Steps
 1. Metti la mirepoix sul fuoco con un filo d’olio. Se vuoi anche uno spicchio di aglio schiacciato.
-2. Quando la cipolla è dorata, aggiungi gli scarti dei crostacei e lasciali rosolare qualche minuto a fiamma alta.
+2. Quando la cipolla è dorata, aggiungi gli scarti dei crostacei e lasciali tostare qualche minuto a fiamma alta. Più il colore tende al blu scuro, più aromi rilasciano.
 3. Aggiungi il brandy o vino e deglassa il fondo, oppure metti direttamente l'acqua.
 4. Metti i pomodori, acqua fredda e il mazzetto aromatico. NON salare in questa fase.
 5. Fai cuocere a fuoco lento per circa un’ora.
