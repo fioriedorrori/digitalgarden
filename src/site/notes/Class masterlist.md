@@ -14,7 +14,21 @@
 # Lista ricette
 Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
-## 24-01-2023
+## 26-01-2023
+- [[100 Recipes/Precottura del riso\|Precottura del riso]]
+- Timballo di riso con crema di asparagi
+- [[100 Recipes/Risotto allo zafferano e salsiccia\|Risotto allo zafferano e salsiccia]]
+- Fusi di pollo con carciofi
+- Torta pasqualina
+- Tortino alle nocciole con salsa allo zabaione
+## 25-01-2023
+- Vitello in salsa verde
+- Brodo di carne
+- Lasagne al gorgonzola e patate
+- Mezzelune ripiene
+- Cannelloni con ricotta e spinaci
+- [[100 Recipes/Impasto per pizza\|Pane aromatizzato]]
+## 23-01-2023
 - [[100 Recipes/Cannelloni con ragù di salsiccia e carciofi\|Cannelloni con ragù di salsiccia e carciofi]]
 - Pappardelle con salsa ai funghi
 - Maltagliati con salsa ai carciofi
