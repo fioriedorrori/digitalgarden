@@ -20,10 +20,10 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Risotto allo zafferano e salsiccia\|Risotto allo zafferano e salsiccia]]
 - Fusi di pollo con carciofi
 - Torta pasqualina
-- Tortino alle nocciole con salsa allo zabaione
+- Tortino alle nocciole con [[200 Extras/Salsa allo zabaione\|Salsa allo zabaione]]
 ## 25-01-2023
-- Vitello in salsa verde
-- Brodo di carne
+- [[200 Extras/Vitello con bagnetto verde\|Vitello con bagnetto verde]]
+- [[100 Recipes/Brodo di carne\|Brodo di carne]]
 - Lasagne al gorgonzola e patate
 - Mezzelune ripiene
 - Cannelloni con ricotta e spinaci
