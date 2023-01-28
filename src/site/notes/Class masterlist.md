@@ -19,11 +19,10 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - Timballo di riso con crema di asparagi
 - [[100 Recipes/Risotto allo zafferano e salsiccia\|Risotto allo zafferano e salsiccia]]
 - Fusi di pollo con carciofi
-- Torta pasqualina
-- Tortino alle nocciole con [[200 Extras/Salsa allo zabaione\|Salsa allo zabaione]]
+- [Torta Pasqualina](https://ricette.giallozafferano.it/Torta-Pasqualina.html)
+- [Tortino alle nocciole](https://ricette.giallozafferano.it/Torta-di-nocciole.html) con [[200 Extras/Salsa allo zabaione\|Salsa allo zabaione]]
 ## 25-01-2023
 - [[200 Extras/Vitello con bagnetto verde\|Vitello con bagnetto verde]]
-- [[100 Recipes/Brodo di carne\|Brodo di carne]]
 - Lasagne al gorgonzola e patate
 - Mezzelune ripiene
 - Cannelloni con ricotta e spinaci
