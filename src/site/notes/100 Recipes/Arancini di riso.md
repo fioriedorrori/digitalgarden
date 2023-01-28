@@ -8,11 +8,11 @@ Per un chilo di riso ci vanno 1-2g di zafferano.
 ## Ingredients
 - [ ] riso semifino
 - [ ] zafferano
-- [ ] ripieno (prosciutto e formaggio, ragù con piselli, spinaci e mozzarella…)
-- [ ] farina
-- [ ] uova
-- [ ] pangrattato
-- [ ] olio di semi
+- [x] ripieno (prosciutto e formaggio, ragù con piselli, spinaci e mozzarella…)
+- [x] farina
+- [x] uova
+- [x] pangrattato
+- [x] olio di semi
 ## Steps
 1. Pesa l’acqua in modo che sia quattro volte il peso del riso e mettila a bollire.
 2. Quando sta bollendo, prendine un mestolo da parte e mettici lo zafferano a sciogliere (il colore sarà più brillante se messo in acqua calda). Rimetti l’acqua colorata nella pentola.
