@@ -7,7 +7,6 @@
 - [[300 Notes/Surgelati e congelati\|Surgelati e congelati]]
 - [[300 Notes/Menu\|Menu]]
 - [[300 Notes/Porzioni - grammature\|Porzioni - grammature]]
-- [[300 Notes/Pasta\|Pasta]] – [[300 Notes/Riso\|Riso]]
 - [[300 Notes/Precottura della pasta\|Precottura della pasta]]
 - [[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
