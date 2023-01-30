@@ -12,7 +12,6 @@
 - [[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
-Le ricette di colore chiaro non sono ancora state scritte.
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 26-01-2023
 - [[100 Recipes/Precottura del riso\|Precottura del riso]]
