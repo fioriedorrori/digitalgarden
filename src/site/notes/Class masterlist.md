@@ -7,11 +7,19 @@
 - [[300 Notes/Surgelati e congelati\|Surgelati e congelati]]
 - [[300 Notes/Menu\|Menu]]
 - [[300 Notes/Porzioni - grammature\|Porzioni - grammature]]
+- [[300 Notes/Pasta\|Pasta]] – [[300 Notes/Riso\|Riso]]
 - [[300 Notes/Precottura della pasta\|Precottura della pasta]]
 - [[300 Notes/Pulizia dei molluschi\|Pulizia dei molluschi]]
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 30-01-2023
+- [[100 Recipes/Melanzane panate\|Melanzane panate]] con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
+- [[100 Recipes/Involtino di melanzane alla Palermitana\|Involtino di melanzane alla Palermitana]]
+- [[100 Recipes/Scaloppina di tacchino alla Valdostana\|Scaloppina di tacchino alla Valdostana]]
+- [[100 Recipes/Crepes\|Crepes]] con [[100 Recipes/Crema pasticcera\|crema pasticcera]]
+- Bounet con caramello
+- [[100 Recipes/Impasto per pizza\|Pane ripieno]]
 ## 26-01-2023
 - [[100 Recipes/Precottura del riso\|Precottura del riso]]
 - Timballo di riso con crema di asparagi
