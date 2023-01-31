@@ -14,7 +14,7 @@
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 30-01-2023
-- [[100 Recipes/Melanzane panate\|Melanzane panate]] con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
+- [[100 Recipes/Melanzane panate\|Melanzane panate]] con [[100 Recipes/Salsa d’acciuga\|salsa d’acciuga]]
 - [[100 Recipes/Involtino di melanzane alla Palermitana\|Involtino di melanzane alla Palermitana]]
 - [[100 Recipes/Scaloppina di tacchino alla Valdostana\|Scaloppina di tacchino alla Valdostana]]
 - [[100 Recipes/Crepes\|Crepes]] con [[100 Recipes/Crema pasticcera\|crema pasticcera]]
