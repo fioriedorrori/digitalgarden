@@ -7,7 +7,6 @@
 - [ ] 200g zucchero
 - [ ] 100g acqua a temp. ambiente
 - [ ] 100g acqua collente
-- [ ] succo di limone
 ## Steps
 1. Metti a freddo zucchero e acqua a temperatura ambiente in un pentolino e accendi il fuoco. Non girarlo e non toccarlo, ma lascialo arrivare a bollore. 
 2. Nel frattempo, fai scaldare gli altri 100g di acqua.
