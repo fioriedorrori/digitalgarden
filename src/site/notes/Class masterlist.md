@@ -18,7 +18,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Involtino di melanzane alla Palermitana\|Involtino di melanzane alla Palermitana]]
 - [[100 Recipes/Scaloppina di tacchino alla Valdostana\|Scaloppina di tacchino alla Valdostana]]
 - [[100 Recipes/Crepes\|Crepes]] con [[100 Recipes/Crema pasticcera\|crema pasticcera]]
-- Bounet con caramello
+- Bounet con [[100 Recipes/Caramello\|caramello]]
 - [[100 Recipes/Impasto per pizza\|Pane ripieno]]
 ## 26-01-2023
 - [[100 Recipes/Precottura del riso\|Precottura del riso]]
