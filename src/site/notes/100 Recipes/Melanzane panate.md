@@ -13,5 +13,5 @@ Note: le melanzane chiare contengono meno acqua e sono quindi piú adatte ad ess
 ## Steps
 1. Taglia le melanzane con l'affettatrice, creando fette rotonde.
 2. Sbollentale in acqua per ammorbidirle e togliere la sensazione di pizzicore.
-4. Passa le fette prima nella farina, poi nell'uovo sbattuto e infine nel pan grattato.
+4. Passa le fette prima nella farina, poi nell'uovo sbattuto e nel pan grattato due volte per una panatura croccante. 
 3. Porta l'olio a 180° e friggi le fette di melanzane, adagiandole su carta assorbente.
