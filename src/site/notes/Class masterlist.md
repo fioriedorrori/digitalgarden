@@ -13,6 +13,17 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 03-02-2023
+- Tortino di patate con cuore fondente e salsa d’acciuga
+- Tajarin con ragù di coniglio
+- Cinghiale in civet
+- Piadina
+- Millefoglie con mousse al cioccolato
+## 01-02-2023
+- Cestino di crepe al nero di seppia con baccalà
+- Ravioli ripieni di verdure
+- Petto di anatra alla griglia con chips di patate
+- Crespelle ripiene
 ## 30-01-2023
 - [[100 Recipes/Melanzane panate\|Melanzane panate]] con [[100 Recipes/Salsa d’acciuga\|salsa d’acciuga]]
 - [[100 Recipes/Involtino di melanzane alla Palermitana\|Involtino di melanzane alla Palermitana]]
