@@ -22,7 +22,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 01-02-2023
 - [[100 Recipes/Cestino di crepe al nero di seppia\|Cestino di crepe al nero di seppia]] con baccalà
 - [[100 Recipes/Pasta all’uovo\|Ravioli]] ripieni di verdure
-- [[100 Recipes/Petto di anatra\|Petto di anatra]] alla griglia con [[100 Recipes/Patate chips fritte\|patate chips fritte]]
+- [[100 Recipes/Petto di anatra alla griglia\|Petto di anatra alla griglia]] con [[100 Recipes/Patate chips fritte\|patate chips fritte]]
 - Crespelle ripiene
 ## 30-01-2023
 - [[100 Recipes/Melanzane panate\|Melanzane panate]] con [[100 Recipes/Salsa d’acciuga\|salsa d’acciuga]]
