@@ -14,15 +14,15 @@
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 03-02-2023
-- Tortino di patate con cuore fondente e salsa d’acciuga
-- Tajarin con ragù di coniglio
-- Cinghiale in civet
-- Piadina
-- Millefoglie con mousse al cioccolato
+- [[100 Recipes/Gateau di patate\|Tortino di patate con cuore fondente]] e [[100 Recipes/Salsa d’acciuga\|salsa d’acciuga]]
+- [[100 Recipes/Pasta all’uovo\|Tajarin]] con [[100 Recipes/Ragù di coniglio\|Ragù di coniglio]]
+- [[100 Recipes/Cinghiale in çivet\|Cinghiale in çivet]]
+- [[100 Recipes/Piadina\|Piadina]]
+- [[100 Recipes/Millefoglie\|Millefoglie]] con [[100 Recipes/Mousse al cioccolato\|Mousse al cioccolato]]
 ## 01-02-2023
-- Cestino di crepe al nero di seppia con baccalà
-- Ravioli ripieni di verdure
-- Petto di anatra alla griglia con chips di patate
+- [[100 Recipes/Cestino di crepe al nero di seppia\|Cestino di crepe al nero di seppia]] con baccalà
+- [[100 Recipes/Pasta all’uovo\|Ravioli]] ripieni di verdure
+- [[100 Recipes/Petto di anatra\|Petto di anatra]] alla griglia con [[100 Recipes/Patate chips fritte\|patate chips fritte]]
 - Crespelle ripiene
 ## 30-01-2023
 - [[100 Recipes/Melanzane panate\|Melanzane panate]] con [[100 Recipes/Salsa d’acciuga\|salsa d’acciuga]]
@@ -40,9 +40,9 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [Tortino alle nocciole](https://ricette.giallozafferano.it/Torta-di-nocciole.html) con [[200 Extras/Salsa allo zabaione\|Salsa allo zabaione]]
 ## 25-01-2023
 - [[200 Extras/Vitello con bagnetto verde\|Vitello con bagnetto verde]]
-- Lasagne al gorgonzola e patate
-- Mezzelune ripiene
-- Cannelloni con ricotta e spinaci
+- [[100 Recipes/Pasta all’uovo\|Lasagne]] al [[200 Extras/Besciamella\|gorgonzola]] e patate
+- [[100 Recipes/Pasta all’uovo\|Mezzelune]] ripiene
+- [[100 Recipes/Pasta all’uovo\|Cannelloni]] con ricotta e spinaci
 - [[100 Recipes/Impasto per pizza\|Pane aromatizzato]]
 ## 23-01-2023
 - [[100 Recipes/Cannelloni con ragù di salsiccia e carciofi\|Cannelloni con ragù di salsiccia e carciofi]]
