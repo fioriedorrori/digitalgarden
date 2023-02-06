@@ -14,7 +14,7 @@
 ## Steps
 1. Metti il latte sul fuoco con metà dello zucchero, la scorza di limone e un pizzico di sale.
 2. In una bastardella sbatti i tuorli con l’altra metà dello zucchero, la farina e la vanillina.
-3. Quando il latte è arrivato quasi a bollore, toglilo dal fuoco e versalo un po’ alla volta nelle uova sbattute. Incorpora bene con la frusta.
+3. Quando il latte è arrivato quasi a bollore, toglilo dal fuoco e versane un po’ nelle uova sbattute. Incorpora bene con la frusta. Ora versa le uova nel resto del latte.
 4. Rimetti il tutto sul fuoco. Quando arriva a bollore spegni. Copri con la pellicola a contatto e metti in abbattitore.
 ## Sostituzioni
 Puoi sostituire la farina con:
