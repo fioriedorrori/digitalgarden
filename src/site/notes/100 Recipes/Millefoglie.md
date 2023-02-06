@@ -3,6 +3,7 @@
 ---
 
 # Millefoglie
+Note: la pasta sfoglia deve essere lavorata fredda, o il burro potrebbe iniziare a sciogliersi.
 ## Ingredients
 - [ ] pasta sfoglia pronta (da frigo o freezer)
 - [ ] zucchero semolato
