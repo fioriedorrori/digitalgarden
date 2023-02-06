@@ -5,6 +5,7 @@
 # Besciamella
 Note: burro e farina vanno messi in parti uguali. Il rapporto con il latte o altro liquido, per una besciamella medio-densa, è 100g per 1l.
 Puoi sostituire il latte con qualsiasi liquido per creare salse più saporite (es. brodo di carne, brodo di cottura di broccoli…)
+Per una besciamella al formaggio, semplicemente taglia un formaggio filante (fontina, gorgonzola) a scaglie e lascialo a sciogliere nella besciamella calda.
 ## Ingredients
 - [ ] latte intero o altro liquido
 - [ ] farina 00
