@@ -13,6 +13,14 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 06-02-2023
+Assortimento di [[100 Recipes/Crepes\|crespelle]]:
+- Lasagne [[100 Recipes/Salsa ai formaggi\|ai formaggi]]
+- Tagliatelle all’amatriciana
+- Portafogli al prosciutto e formaggio 
+- Cannelloni alla ricotta e spinaci
+- Milanese di tacchino con [[100 Recipes/Melanzane al funghetto\|Melanzane al funghetto]]
+- Cestini con crema all’amaretto
 ## 03-02-2023
 - [[100 Recipes/Gateau di patate\|Tortino di patate con cuore fondente]] e [[100 Recipes/Salsa d’acciuga\|salsa d’acciuga]]
 - [[100 Recipes/Pasta all’uovo\|Tajarin]] con [[100 Recipes/Ragù di coniglio\|Ragù di coniglio]]
@@ -40,7 +48,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [Tortino alle nocciole](https://ricette.giallozafferano.it/Torta-di-nocciole.html) con [[200 Extras/Salsa allo zabaione\|Salsa allo zabaione]]
 ## 25-01-2023
 - [[200 Extras/Vitello con bagnetto verde\|Vitello con bagnetto verde]]
-- [[100 Recipes/Pasta all’uovo\|Lasagne]] al [[200 Extras/Besciamella\|gorgonzola]] e patate
+- [[100 Recipes/Pasta all’uovo\|Lasagne]] al [[100 Recipes/Salsa ai formaggi\|gorgonzola]] e patate
 - [[100 Recipes/Pasta all’uovo\|Mezzelune]] ripiene
 - [[100 Recipes/Pasta all’uovo\|Cannelloni]] con ricotta e spinaci
 - [[100 Recipes/Impasto per pizza\|Pane aromatizzato]]
