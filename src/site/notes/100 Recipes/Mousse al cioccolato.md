@@ -21,4 +21,5 @@
 4. Rimetti il tutto sul fuoco. Quando arriva a bollore spegni. Versa quasi tutte le scaglie di cioccolato e mescola finché si sciologono completamente. Copri con la pellicola a contatto e metti in abbattitore.
 5. Monta la panna con i 20g di zucchero.
 6. Quando la crema è fredda, incorpora delicatamente la panna montata con una spatola e movimenti dall’alto verso il basso.
-7. Usa il resto delle scaglie di cioccolato come decorazione così come sono, o scioglile in microonde e cola il cioccolato sopra la mousse.
+7. Metti in una recipiente basso e largo e abbatti.
+8. Usa il resto delle scaglie di cioccolato come decorazione così come sono, o scioglile in microonde e cola il cioccolato sopra la mousse.
