@@ -5,11 +5,11 @@
 # Melanzane panate
 Note: le melanzane chiare contengono meno acqua e sono quindi piú adatte ad essere fritte (?)
 ## Ingredients
-- [x] melanzane
-- [x] olio di semi
-- [x] farina (00 o semola)
-- [x] uova
-- [x] pangrattato
+- [ ] melanzane
+- [ ] olio di semi
+- [ ] farina (00 o semola)
+- [ ] uova
+- [ ] pangrattato
 ## Steps
 1. Taglia le melanzane con l'affettatrice, creando fette rotonde.
 2. Sbollentale in acqua per ammorbidirle e togliere la sensazione di pizzicore.
