@@ -13,6 +13,19 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 09-02-2023
+- Insalata di pollo e verdura
+- Flan di asparagi con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
+- Panna cotta ai frutti di bosco e al caffé
+- Grissini alla cipolla
+- Cappelletti di carne in brodo
+- Arrosto di suino alle erbe con puré di patate
+## 08-02-2023
+- Involtini di pollo ripieni di spinaci
+- Straccetti di tacchino
+- Crostata con crema alla vaniglia e mirtilli
+- Cracker
+- Farfalle con salsa alla Norma/amatriciana
 ## 06-02-2023
 Assortimento di [[100 Recipes/Crepes\|crespelle]]:
 - Lasagne [[100 Recipes/Salsa ai formaggi\|ai formaggi]]
