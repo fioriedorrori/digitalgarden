@@ -13,6 +13,13 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 13-02-2023
+- Gamberoni al cognac con crema di piselli
+- Gnocchi di patata ripieni
+- Tagliatelle con salsa di scampi
+- Focaccia
+- Pane alle noci
+- [[100 Recipes/Tiramisu scomposto\|Tiramisu scomposto]]
 ## 09-02-2023
 - Insalata di pollo e verdura
 - Flan di asparagi con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
