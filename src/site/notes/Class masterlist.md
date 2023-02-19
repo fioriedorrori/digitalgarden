@@ -109,9 +109,9 @@ Assortimento di [[100 Recipes/Crepes\|crespelle]]:
 ## 23-12-2022
 - [[200 Extras/Salsa di pomodoro\|Salsa di pomodoro]]
 - [[100 Recipes/Carbonara\|Carbonara]]
-- [[200 Extras/Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
+- [[Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
 - [[100 Recipes/Salsa ai broccoli\|Salsa ai broccoli]]
-- [[200 Extras/Salsa di peperoni\|Salsa di peperoni]]
+- [[Salsa di peperoni\|Salsa di peperoni]]
 - [[100 Recipes/Meringhe\|Meringhe]]
 ## 15-12-2022
 - [[100 Recipes/Gnocchi alla romana\|Gnocchi alla romana]]
