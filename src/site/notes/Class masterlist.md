@@ -14,29 +14,29 @@
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## 17-02-2013
-- Tortino di patate con cuore di ricotta al basilico e [[100 Recipes/Crema alla cipolla caramellata\|Crema alla cipolla caramellata]]
+- [[100 Recipes/Gateau di patate\|Tortino di patate]] con cuore di ricotta al basilico e [[100 Recipes/Crema alla cipolla caramellata\|Crema alla cipolla caramellata]]
 - Garganelli in salsa di gamberi
-- Polpette di piselli
-- Tiramisù classico
-- Taralli pugliesi
+- [[100 Recipes/Polpette di verdure\|Polpette di verdure]]
+- [[100 Recipes/Tiramisù classico\|Tiramisù classico]]
+- [[100 Recipes/Taralli pugliesi\|Taralli pugliesi]]
 ## 15-02-2023
 - Goulash ungherese
-- Frittura di totani
-- Verdure in pastella
+- [[100 Recipes/Frittura di totani\|Frittura di totani]]
+- [[100 Recipes/Verdure in pastella\|Verdure in pastella]]
 - [[100 Recipes/Patate duchessa\|Patate duchessa]]
 - Insalata di riso
 ## 13-02-2023
 - [[100 Recipes/Gamberoni al cognac\|Gamberoni al cognac]] con [[100 Recipes/crema di piselli\|crema di piselli]]
 - Gnocchi di patata ripieni
 - Tagliatelle con salsa di scampi
-- Focaccia
-- Pane alle noci
+- [[100 Recipes/Impasto per pizza\|Focaccia]]
+- [[100 Recipes/Impasto per pizza\|Pane alle noci]]
 - [[100 Recipes/Tiramisu scomposto\|Tiramisu scomposto]]
 ## 09-02-2023
 - [[100 Recipes/Insalata di pollo e verdura\|Insalata di pollo e verdura]]
 - [[100 Recipes/Flan di verdure\|Flan di asparagi]] con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
 - [[100 Recipes/Panna cotta\|Panna cotta]] ai frutti di bosco e al caffé
-- Grissini alla cipolla
+- [[100 Recipes/Impasto per pizza\|Grissini alla cipolla]]
 - Cappelletti di carne in brodo
 - Arrosto di suino alle erbe con puré di patate
 ## 08-02-2023
