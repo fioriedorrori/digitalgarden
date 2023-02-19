@@ -13,24 +13,36 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## 17-02-2013
+- Tortino di patate con cuore di ricotta al basilico e [[100 Recipes/Crema alla cipolla caramellata\|Crema alla cipolla caramellata]]
+- Garganelli in salsa di gamberi
+- Polpette di piselli
+- Tiramisù classico
+- Taralli pugliesi
+## 15-02-2023
+- Goulash ungherese
+- Frittura di totani
+- Verdure in pastella
+- [[100 Recipes/Patate duchessa\|Patate duchessa]]
+- Insalata di riso
 ## 13-02-2023
-- Gamberoni al cognac con crema di piselli
+- [[100 Recipes/Gamberoni al cognac\|Gamberoni al cognac]] con [[100 Recipes/crema di piselli\|crema di piselli]]
 - Gnocchi di patata ripieni
 - Tagliatelle con salsa di scampi
 - Focaccia
 - Pane alle noci
 - [[100 Recipes/Tiramisu scomposto\|Tiramisu scomposto]]
 ## 09-02-2023
-- Insalata di pollo e verdura
-- Flan di asparagi con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
-- Panna cotta ai frutti di bosco e al caffé
+- [[100 Recipes/Insalata di pollo e verdura\|Insalata di pollo e verdura]]
+- [[100 Recipes/Flan di verdure\|Flan di asparagi]] con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
+- [[100 Recipes/Panna cotta\|Panna cotta]] ai frutti di bosco e al caffé
 - Grissini alla cipolla
 - Cappelletti di carne in brodo
 - Arrosto di suino alle erbe con puré di patate
 ## 08-02-2023
 - Involtini di pollo ripieni di spinaci
 - Straccetti di tacchino
-- Crostata con crema alla vaniglia e mirtilli
+- [[100 Recipes/Pasta frolla\|Crostata]] con crema alla vaniglia e mirtilli
 - Cracker
 - Farfalle con salsa alla Norma/amatriciana
 ## 06-02-2023
