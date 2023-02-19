@@ -4,7 +4,7 @@
 
 # Crema alla cipolla caramellata
 ## Ingredients
-- [ ] cipolla bianca o dorata
+- [ ] cipolla bianca
 - [ ] olio di oliva
 - [ ] panna fresca
 - [ ] patata lessa
