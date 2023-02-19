@@ -26,7 +26,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - [[100 Recipes/Patate duchessa\|Patate duchessa]]
 - Insalata di riso
 ## 13-02-2023
-- [[100 Recipes/Gamberoni al cognac\|Gamberoni al cognac]] con [[100 Recipes/crema di piselli\|crema di piselli]]
+- [[100 Recipes/Gamberoni al cognac\|Gamberoni al cognac]] con [[100 Recipes/Crema di piselli\|Crema di piselli]]
 - Gnocchi di patata ripieni
 - Tagliatelle con salsa di scampi
 - [[100 Recipes/Impasto per pizza\|Focaccia]]
