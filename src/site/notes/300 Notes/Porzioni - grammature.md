@@ -32,3 +32,5 @@ Tra il secondo di pesce (servito prima perchè ha un sapore più delicato) e que
 - Formaggi (tradizione francese) → *120-150g*
 - Dessert → *100g*
 - Caffè → *7g*
+# Degustazione
+40-50g
