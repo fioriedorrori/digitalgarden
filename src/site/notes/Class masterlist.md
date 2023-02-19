@@ -31,7 +31,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - Tagliatelle con salsa di scampi
 - [[100 Recipes/Impasto per pizza\|Focaccia]]
 - [[100 Recipes/Impasto per pizza\|Pane alle noci]]
-- [[100 Recipes/Tiramisu scomposto\|Tiramisu scomposto]]
+- [[100 Recipes/Tiramisù scomposto\|Tiramisù scomposto]]
 ## 09-02-2023
 - [[100 Recipes/Insalata di pollo e verdura\|Insalata di pollo e verdura]]
 - [[100 Recipes/Flan di verdure\|Flan di asparagi]] con [[100 Recipes/Salsa d’acciuga\|Salsa d’acciuga]]
@@ -91,7 +91,7 @@ Assortimento di [[100 Recipes/Crepes\|crespelle]]:
 - Tagliatelle [[100 Recipes/Salsa alla Norma\|alla Norma]]
 ## 20-01-2023
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
-- [[200 Extras/Ragù bianco di agnello\|Ragù bianco di agnello]]
+- [[Ragù bianco di agnello\|Ragù bianco di agnello]]
 - [[200 Extras/Salsa ai funghi e gambero nero\|Salsa ai funghi e gambero nero]]
 - [[100 Recipes/Bisque\|Bisque]]
 ## 18-01-2023
@@ -105,7 +105,7 @@ Assortimento di [[100 Recipes/Crepes\|crespelle]]:
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
 - Lasagna ai frutti di mare
 - [[100 Recipes/Totani ripieni su crema di lenticchie\|Totani ripieni su crema di lenticchie]]
-- [[100 Recipes/Grissini alle olive\|Grissini alle olive]]
+- [[Grissini alle olive\|Grissini alle olive]]
 ## 23-12-2022
 - [[200 Extras/Salsa di pomodoro\|Salsa di pomodoro]]
 - [[100 Recipes/Carbonara\|Carbonara]]
