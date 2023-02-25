@@ -16,7 +16,7 @@
 ## Steps
 1. Trita la cipolla bianca e mettila in padella con un filo d’olio e un pizzico di sale. Lascia che prenda colore, girandola di tanto in tanto.
 2. Quando raggiunge un bel colore e non si sente più odore di cipolla, toglila dal fuoco.
-3. Versa la cipolla in una bastardella, aggiungi un po’ di panna fresca e frulla con frullatore a immersione per ottenere una crema liscia. Se necessario aggiusta di sale.
+3. Versa la cipolla in una bastardella, aggiungi un po’ di panna fresca e una patata lessa, e frulla con frullatore a immersione per ottenere una crema liscia. Se necessario aggiusta di sale.
 4. Aggiungi della curcuma se vuoi e metti in abbattitore.
 5. Taglia la cipolla rossa a julienne e mettila in padella con un filo d’olio e un pizzico di sale.
 6. Quando raggiunge un bel colore vivace, versa un po’ di aceto e lascia che evapori.
