@@ -13,9 +13,11 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
-## 17-02-2013
+## 23-02-2023
+- [[100 Recipes/Pan di Spagna\|Pan di Spagna]]
+## 17-02-2023
 - [[100 Recipes/Gateau di patate\|Tortino di patate]] con cuore di ricotta al basilico e [[100 Recipes/Crema alla cipolla caramellata\|Crema alla cipolla caramellata]]
-- Garganelli in salsa di gamberi
+- Garganelli in salsa di gamberi 
 - [[100 Recipes/Polpette di verdure\|Polpette di verdure]]
 - [[100 Recipes/Tiramisù classico\|Tiramisù classico]]
 - [[100 Recipes/Taralli pugliesi\|Taralli pugliesi]]
@@ -46,7 +48,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - Cracker
 - Farfalle con salsa alla Norma/amatriciana
 ## 06-02-2023
-Assortimento di [[100 Recipes/Crepes\|crespelle]]:
+Assortimento di [[100 Recipes/Crepes\|Crespelle]]:
 - Lasagne [[100 Recipes/Salsa ai formaggi\|ai formaggi]]
 - Tagliatelle all’amatriciana
 - Portafogli al prosciutto e formaggio 
@@ -91,7 +93,7 @@ Assortimento di [[100 Recipes/Crepes\|crespelle]]:
 - Tagliatelle [[100 Recipes/Salsa alla Norma\|alla Norma]]
 ## 20-01-2023
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
-- [[Ragù bianco di agnello\|Ragù bianco di agnello]]
+- Ragù bianco di agnello
 - [[200 Extras/Salsa ai funghi e gambero nero\|Salsa ai funghi e gambero nero]]
 - [[100 Recipes/Bisque\|Bisque]]
 ## 18-01-2023
@@ -105,13 +107,13 @@ Assortimento di [[100 Recipes/Crepes\|crespelle]]:
 - [[100 Recipes/Pasta all’uovo\|Pasta all’uovo]]
 - Lasagna ai frutti di mare
 - [[100 Recipes/Totani ripieni su crema di lenticchie\|Totani ripieni su crema di lenticchie]]
-- [[Grissini alle olive\|Grissini alle olive]]
+- Grissini alle olive
 ## 23-12-2022
 - [[200 Extras/Salsa di pomodoro\|Salsa di pomodoro]]
 - [[100 Recipes/Carbonara\|Carbonara]]
-- [[Salsa al pomodoro fresco\|Salsa al pomodoro fresco]]
+- Salsa al pomodoro fresco
 - [[100 Recipes/Salsa ai broccoli\|Salsa ai broccoli]]
-- [[Salsa di peperoni\|Salsa di peperoni]]
+- Salsa di peperoni
 - [[100 Recipes/Meringhe\|Meringhe]]
 ## 15-12-2022
 - [[100 Recipes/Gnocchi alla romana\|Gnocchi alla romana]]
