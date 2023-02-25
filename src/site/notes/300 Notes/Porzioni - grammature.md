@@ -18,6 +18,7 @@ Le paste saltate non fanno differenza tra secche e fresche; la grammatura è sce
 - Pasta lunga → *60-80g*
 - Pasta corta  → *80-100g*
 - Pasta ripiena → *150-200g*
+- Riso 60-80g
 # Secondi
 Tra il secondo di pesce (servito prima perchè ha un sapore più delicato) e quello di carne, va servito una pietanza per pulire la bocca.
 - Pesce
