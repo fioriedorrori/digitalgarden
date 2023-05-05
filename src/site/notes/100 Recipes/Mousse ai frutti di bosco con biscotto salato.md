@@ -43,5 +43,3 @@ Decorazione:
 
 **Sistema di cottura:** conduzione
 **Tipo di servizio:** finger
-
-![IMG_20230504_172450.jpg](/img/user/999%20Embeds/IMG_20230504_172450.jpg)
