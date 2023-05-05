@@ -6,8 +6,8 @@
 ## Ingredients
 - [ ] verdure (asparagi, carote, spinaci...)
 - [ ] 1l latte
-- [ ] 60g burro
-- [ ] 60g farina
+- [ ] 150g burro
+- [ ] 150g farina
 - [ ] 2 uova
 - [ ] 150g formaggio grattugiato
 - [ ] sale
@@ -19,6 +19,6 @@
 3. Aggiungi le uova alla besciamella calda, mescola bene e in fretta per incorporarle. Metti anche il formaggio e le verdure, frulla con frullatore a immersione.
 4. Imburra degli stampini monoporzione e riempili con il composto. Prepara una teglia dai bordi alti con dell’acqua calda e metti gli stampini a bagnomaria. 
 5. Inforna per 30-40 min a:
-	- 180° con cottura ad aria calda
+	- 180° con cottura ad aria calda (bagnomaria)
 	- 100° con cottura a vapore
 	- 140° con cottura mista 
