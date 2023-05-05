@@ -40,5 +40,6 @@ Decorazione:
 8. Trasferisci la crema in una nuova bastardella, copri con la pellicola a contatto e metti in abbattitore.
 9. Quando si è raffreddata, trasferisci nella ciotola della planetaria e azionala a bassa potenza per “rompere” la crema. Aumenta un po’ la velocità e versa la panna a filo, poi lo zucchero a velo. Quando raggiunge una consistenza cremosa ma ancora morbida, trasferisci la mousse in una sac à poche. 
 10. Distribuisci la mousse nei bicchierini, sopra la granella. Finisci con la decorazione usando frutti di bosco freschi (tagliati secondo la dimensione dei contenitori), cioccolato bianco a scaglie e foglioline di menta fresca. 
+
 **Sistema di cottura:** conduzione
 **Tipo di servizio:** finger
