@@ -22,7 +22,7 @@ Gli ingredienti con un asterisco a fianco non sono obbligatori.
 - Involtino di pesce spada alla Palermitana
 - Filetto di merluzzo con salsa al melograno e zucchine (misto, 180 8 min)
 - Millefoglie con crema Chantilly alla fragola e gelato alla vaniglia
-- Mousse ai frutti di bosco con biscotto salato
+- [[100 Recipes/Mousse ai frutti di bosco con biscotto salato\|Mousse ai frutti di bosco con biscotto salato]]
 - Assortimento di pane e grissini
 ## 23-02-2023
 - [[100 Recipes/Pan di Spagna\|Pan di Spagna]]
