@@ -13,6 +13,17 @@
 - Lievitati: [[300 Notes/Tipi di lievito\|Tipi di lievito]], [[300 Notes/Metodi di lievitazione\|Metodi di lievitazione]], [[300 Notes/Farine\|Farine]], [[300 Notes/Processo per i lievitati\|Processo per i lievitati]]
 # Lista ricette
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
+## Piatti d’esame
+- Pepite di melanzana fritte
+- Sottilissima di salmone con salsa di yogurt e senape, con chips di patata viola
+- Battuta di tonno con stracciatella di bufala e lime
+- Trofie in salsa di gambero, con prosecco e pistacchio salato
+- Conchiglioni ripieni di molluschi su orzo nero e vellutata di pesce
+- Involtino di pesce spada alla Palermitana
+- Filetto di merluzzo con salsa al melograno e zucchine (misto, 180 8 min)
+- Millefoglie con crema Chantilly alla fragola e gelato alla vaniglia
+- Mousse ai frutti di bosco con biscotto salato
+- Assortimento di pane e grissini
 ## 23-02-2023
 - [[100 Recipes/Pan di Spagna\|Pan di Spagna]]
 ## 17-02-2023
