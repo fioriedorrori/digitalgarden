@@ -35,3 +35,5 @@ Tra il secondo di pesce (servito prima perchè ha un sapore più delicato) e que
 - Caffè → *7g*
 # Degustazione
 40-50g
+# Buffet
+15-20g
