@@ -6,10 +6,10 @@
 Note: le uova montano meglio a temperatura ambiente
 ## Ingredients
 - [ ] 5 uova
-- [x] 200g farina 00
+- [ ] 200g farina 00
 - [ ] 190g zucchero
 - [ ] vaniglia
-- [x] scorza o aroma di limone
+- [ ] scorza o aroma di limone
 - [ ] sale
 ## Steps
 1. Prima di tutto imburra e infarina lo stampo dove cuocerai il pan di Spagna e mettilo in frigo.
