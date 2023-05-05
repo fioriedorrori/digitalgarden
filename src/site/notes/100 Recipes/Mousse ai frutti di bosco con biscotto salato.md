@@ -12,16 +12,19 @@ Crema pasticcera:
 - [ ] vanillina
 - [ ] sale
 - [ ] scorza di limone
+
 Per completare la mousse:
 - [ ] 2 fogli di colla di pesce
 - [ ] frutti di bosco gelo
 - [ ] 250g panna fresca
 - [ ] 40g zucchero a velo
+
 Granella salata:
 - [ ] 3 gallette di riso soffiato (circa 33g)
 - [ ] 30g burro
 - [ ] sale
 - [ ] zucchero
+
 Decorazione:
 - [ ] frutti di bosco freschi
 - [ ] cioccolato bianco
