@@ -18,5 +18,3 @@
 2. Metti la carne a rosolare.
 3. Quando si asciuga, deglassa col vino e aggiungi il mazzetto aromatico e il concentrato.
 4. Lascia cuocere il tutto per 10 min. Rimuovi il mazzetto aromatico prima di servire.
-
-![salsa-bolognese.jpg](/img/user/999%20Embeds/salsa-bolognese.jpg)
