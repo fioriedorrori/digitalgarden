@@ -15,12 +15,12 @@
 Gli ingredienti con un asterisco a fianco non sono obbligatori.
 ## Piatti d’esame
 - [[100 Recipes/Pepite di melanzana fritte\|Pepite di melanzana fritte]]
-- Sottilissima di salmone con salsa di yogurt e senape, con chips di patata viola
+- Sottilissima di salmone con salsa di yogurt e senape, con [[100 Recipes/Patate chips fritte\|chips di patata viola]]
 - Battuta di tonno con stracciatella di bufala, frutta secca e lime
 - Trofie in salsa di gambero, con prosecco e pistacchio salato
 - Conchiglioni ripieni di molluschi su orzo nero e vellutata di pesce
 - Involtino di pesce spada alla Palermitana
-- [[100 Recipes/Filetto di merluzzo con salsa al melograno e zucchine\|Filetto di merluzzo con salsa al melograno e zucchine]] (misto, 180 8 min)
+- [[100 Recipes/Filetto di merluzzo con salsa al melograno e zucchine\|Filetto di merluzzo con salsa al melograno e zucchine]]
 - Millefoglie con crema Chantilly alla fragola e gelato alla vaniglia
 - [[100 Recipes/Mousse ai frutti di bosco con biscotto salato\|Mousse ai frutti di bosco con biscotto salato]]
 - Assortimento di pane e grissini
