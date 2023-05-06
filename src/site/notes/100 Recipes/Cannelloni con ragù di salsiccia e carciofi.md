@@ -26,4 +26,3 @@ Forno: 180°
 6. Aggiungi la besciamella alla salsiccia, mescola bene e cuoci insieme per alcuni minuti. Metti in abbattitore.
 7. Metti il ragù in una sac à poche e fai delle strisce di ripieno alla base delle sfoglie di pasta (sul lato più corto). Arrotola la pasta su se stessa fino ad avvolgere tutto il ripieno. Con un coltello taglia la pasta, e se necessario taglia le estremità per pararle. Taglia in porzioni uguali e disponile su una pirofila con la chiusura della pasta verso il basso. Ricopri con salsa a piacere e formaggio grattuggiato.
 8. Metti in forno a 180° per 8 min e servi.
-![IMG-20230206-WA0004.jpg](/img/user/999%20Embeds/IMG-20230206-WA0004.jpg)
