@@ -14,4 +14,3 @@ Note: la pasta sfoglia deve essere lavorata fredda, o il burro potrebbe iniziare
 4. Con una rotella taglia a quadrati o rettangoli uguali, della dimensione di una porzione.
 5. Inforna secondo le istruzioni sul pacco della pasta sfoglia.
 6. Ogni piatto avrà due pezzi di sfoglia, con quello bucherellato come base e quello inciso a rombi sopra.
-![IMG-20230203-WA0004.jpg](/img/user/999%20Embeds/IMG-20230203-WA0004.jpg)
