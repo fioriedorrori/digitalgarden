@@ -17,4 +17,3 @@
 3. Rimuovi delicatamente i cestini dalle forme. Riempili con il ripieno desiderato. Per evitare che scivolino sul piatto, metti un cucchiaio di salsa densa sul fondo.
 ## Conservazione
 Non conservare in frigo, o diverranno molli. Tieni fuori in un luogo fresco.
-![IMG_20230201_170616.jpg](/img/user/999%20Embeds/IMG_20230201_170616.jpg)
