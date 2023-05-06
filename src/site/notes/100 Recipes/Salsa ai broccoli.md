@@ -20,5 +20,3 @@ Note: La [[200 Extras/Besciamella\|besciamella]] deve essere liquida, usa 60g di
 4. Prepara una [[200 Extras/Besciamella\|besciamella]] con l’acqua di cottura dei broccoli.
 5. Se hai le foglie, passale in padella con olio e aglio e frullale insieme alla besciamella. Aggiungi sale e se vuoi un po’ di peperoncino.
 6. Salta la pasta in padella con la pancetta (se la stai usando) e i broccoli, togli dal fuoco e aggiungi la besciamella. Se vuoi decora con fiocchi di ricotta fresca e pangrattato croccante.
-
-![salsa-broccoli.jpg](/img/user/999%20Embeds/salsa-broccoli.jpg)
