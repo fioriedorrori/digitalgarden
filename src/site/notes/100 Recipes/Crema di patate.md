@@ -19,5 +19,3 @@ cuoci senza coperchio, lascia evaporare un po' d'acqua
 4. Assaggia e aggiusta di sale e pepe.
 5. Con un frullatore a immersione, frulla fino ad ottenere una crema.
 6. Decora il piatto con broccoli, cavolfiori, carote, un goccio di olio extravergine o panna.
-
-![crema-patata.jpg](/img/user/999%20Embeds/crema-patata.jpg)
