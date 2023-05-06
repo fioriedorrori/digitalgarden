@@ -20,5 +20,3 @@ Variations: [[100 Recipes/Gnocchi ripieni\|Gnocchi ripieni]], [[100 Recipes/Gnoc
 6.  Trasferisci in una padella dove hai già scaldato la salsa di condimento e salta gli gnocchi insieme ad essa in modo che assorbano il sapore per bene ("risottare").
 ## Storage
 Gli gnocchi possono essere congelati, disposti su un vassoio di carta senza toccarsi, o rimarranno attaccati in cottura. Si buttano in acqua bollente da congelati, MAI scongelare.
-
-![gnocchi-patata.jpg](/img/user/999%20Embeds/gnocchi-patata.jpg)
