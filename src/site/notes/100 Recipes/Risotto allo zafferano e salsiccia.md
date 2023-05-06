@@ -20,4 +20,3 @@
 6. Aggiungi il brodo caldo fino a coprire il riso, aggiungendo una mestolata ogni volta che si asciuga. Se il riso è precotto, ovviamente ci vorrà meno brodo e meno tempo.
 7. Fai sciogliere lo zafferano in un pò di acqua calda a parte, e aggiungilo al riso quando è al dente.
 8. Quando è pronto, togli dal fuoco e manteca con burro freddo di frigo e formaggio grattugiato. Mescola bene. È pronto quando il riso “fa l’onda”. Se è secco puoi aggiungere un po’ di brodo.
-![IMG-20230126-WA0001.jpg](/img/user/999%20Embeds/IMG-20230126-WA0001.jpg)
