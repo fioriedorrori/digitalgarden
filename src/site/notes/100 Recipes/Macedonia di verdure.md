@@ -18,5 +18,3 @@ Note: A seconda delle verdure, si possono fare tutte in forno nella stessa tegli
 5. Infine, per avere una texture variegata, alcune verdure possono essere lasciate crude, come il sedano e le carote.
 6. Unisci tutte le verdure (tranne le crude) in padella con un filo d'olio, aggiungendo per ultimi i pomodori. Spegni la fiamma, aggiungi le verdure crude, condisci con sale e mescola bene.
 7. Finisci con prezzemolo fresco tritato.
-
-![macedonia-verdure.jpg](/img/user/999%20Embeds/macedonia-verdure.jpg)
