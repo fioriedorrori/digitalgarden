@@ -24,5 +24,3 @@ Note: queste quantità producono circa 7 porzioni
 6. Stendi l'impasto con il mattarello ad uno spessore di 1cm-1.5cm e taglia con lo stampo che preferisci. Disponi le formine tagliate su una pirofila, coricate leggermente sovrapposte tra di loro nella formazione che preferisci.
 7. Fai sciogliere il resto del burro e fallo colare sugli gnocchi. Se desideri, bagna con la salsa di pomodoro. Spolvera con il formaggio grattuggiato restante.
 8. Metti in forno a 200° per 10-15 min, finchè non si forma una crosticina dorata sugli gnocchi.
-
-![gnocchi-romana.jpg](/img/user/999%20Embeds/gnocchi-romana.jpg)
