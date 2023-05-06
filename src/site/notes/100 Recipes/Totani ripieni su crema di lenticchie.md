@@ -21,5 +21,3 @@
 5. In una bastardella schiaccia patate, poi unisci carote e cipolle.
 6. Usa il composto di verdure per riempire i totani e fermali con uno stecchino. 
 7. Rimetti la crema di lenticchie in padella a fuoco spento e metti i totani a cuocerci sopra, con il coperchio chiuso, max 15 min.
-
-![totani-ripieni.jpg](/img/user/999%20Embeds/totani-ripieni.jpg)
