@@ -18,5 +18,3 @@ Note: 2 uova L per porzione
 5. Quando è ben caldo, rovesciaci l'impasto. Lascia cuocere senza disturbarlo. Se ti sembra che il fondo sia cotto mentre sopra è completamente liquido, sposta i lembi della frittata e lasciaci colare l'uovo liquido.
 6. Quando il fondo inizia a colorare, gira la frittata: rovesciala su un piatto, poi su un'altro, e rimettila sulla padella al contrario.
 7. Servi calda con un pizzico di prezzemolo o erba cipollina.
-
-![frittata-cipolle.jpg](/img/user/999%20Embeds/frittata-cipolle.jpg)
