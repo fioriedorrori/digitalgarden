@@ -19,5 +19,3 @@
 3. Prepara le verdure e scottale. Se le carote sono grattugiate si possono lasciare crude. Ferma la cottura e lasciale raffreddare.
 4. Prepara una vinegrette, una parte limone e due olio evo, un pizzico di sale. Frullala con un frullatore a immersione fino ad ottenere una cremina densa biancastra.
 5. Mescola gli ingredienti dell’insalata, inclusi eventuali altri frutti di mare, e servi con la vinegrette a parte.
-
-![insalata-moscardini.jpg](/img/user/999%20Embeds/insalata-moscardini.jpg)
