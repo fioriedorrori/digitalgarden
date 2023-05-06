@@ -17,5 +17,3 @@
 3. Aggiungi il succo di pomodoro fresco e lascialo ridurre, oppure la passata, i pelati o i pomodori a pezzi a piacere.
 4. Aggiusta di sale.
 5. Aggiungi il basilico 2 min prima di spegnere la fiamma.
-
-![peperonata.jpg](/img/user/999%20Embeds/peperonata.jpg)
