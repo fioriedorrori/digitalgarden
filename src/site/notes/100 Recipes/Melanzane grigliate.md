@@ -12,5 +12,3 @@
 2. Disponile sulla griglia calda e oliata per qualche min, fino alla formazione dei segni della griglia. Non muoverle!
 3. Girale **una sola volta**. Il secondo lato ci metterà un pó meno rispetto al primo.
 4. Servi con salsa di [[100 Recipes/Pinzimonio\|Pinzimonio]] o [[200 Extras/Maionese\|Maionese]] aromatizzata.
-
-![melanz-grigliate.jpg](/img/user/999%20Embeds/melanz-grigliate.jpg)
