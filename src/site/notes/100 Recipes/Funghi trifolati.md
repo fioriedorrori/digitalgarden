@@ -16,5 +16,3 @@
 3. Aggiungi i funghi alla padella, lasciagli tirare fuori il liquido. Quando è evaporato, bagna con vino bianco.
 4. Dopo che evapora il vino, spegni la fiamma e spolvera con prezzemolo tritato.
 5. Servi da soli come contorno, con patate, spinaci, o in una [[100 Recipes/Macedonia di verdure\|Macedonia di verdure]].
-
-![funghi-trifolati-e-patate.jpg](/img/user/999%20Embeds/funghi-trifolati-e-patate.jpg)
