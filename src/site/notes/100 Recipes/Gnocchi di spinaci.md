@@ -20,5 +20,3 @@ anche la farina va al 30%, aumentando a seconda dell'umidità degli spinaci
 7.  Prendi un po' di impasto alla volta e, su un piano di lavoro spolverato con semola o farina, forma un sigaro di diametro 2cm circa. Con un tarocco taglia dei quadrotti regolari.
 8. Immergi gli gnocchi in acqua bollente salata. Sono pronti quando vengono a galla.
 9.  Trasferisci in una padella dove hai già scaldato la salsa di condimento e salta gli gnocchi insieme ad essa in modo che assorbano il sapore per bene ("risottare").
-
-![gnocchi-spinaci.jpg](/img/user/999%20Embeds/gnocchi-spinaci.jpg)
