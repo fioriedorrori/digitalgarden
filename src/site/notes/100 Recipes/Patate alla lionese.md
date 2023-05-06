@@ -17,5 +17,3 @@ Oven: 180°
 4. Prepara una teglia da forno e disponi le patate in un unico strato, mettici sopra le cipolle. Spruzza con olio e sale.
 5. Inforna a 180° per 15 minuti, poi aziona il grill per pochi minuti, per colorare il tutto.
 6. Disponi sul piatto da portata e condisci a piacere.
-
-![patate-lionese.jpg](/img/user/999%20Embeds/patate-lionese.jpg)
