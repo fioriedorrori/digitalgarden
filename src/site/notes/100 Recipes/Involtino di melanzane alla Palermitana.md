@@ -18,4 +18,3 @@
 5. Sistema tutte le fette di melazane sul piano di lavoro. Adagia la pasta condita al centro delle fette, lasciandola uscire ai lati. Quando li hai riempiti tutti, arrotola le melanzane e chiudi gli involtini.
 6. Sistemali in linea in una teglia, ricopri con formaggio. Metti in forno.
 7. Decora con basilico fresco.
-![IMG_20230130_170546.jpg](/img/user/999%20Embeds/IMG_20230130_170546.jpg)
