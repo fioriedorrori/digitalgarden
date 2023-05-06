@@ -23,5 +23,3 @@ Proporzione della farina è 30% del peso delle patate
 4. Prepara la pirofila o gli stampini: imburrale bene, rimuovendo il burro in eccesso, poi ricopri con pangrattato.
 5. Crea un nido con l'impasto di patate, senza tralasciare i bordi, premendo bene con le dita. Metti il ripieno (se c'è formaggio filante, mettilo per ultimo così che scenda durante la cottura). Chiudi bene con uno strato di patata. Se stai facendo formine piccole, fallo ben piatto così che stia in piedi.
 6. Inforna a 180° per 15-30 minuti a seconda della dimensione del gateau.
-
-![gateau-patata.jpg](/img/user/999%20Embeds/gateau-patata.jpg)
