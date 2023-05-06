@@ -34,5 +34,3 @@ Forno: 250° (ventilato)
 	- per ==pane aromatizzato==, puoi mettere l’aroma (rosmarino, olive…) prima del grasso. 
 	- per ==pane ripieno==, prendi 40g di impasto per volta. Schiaccialo sul palmo della mano sinistra, metti il ripieno (capperi e acciughe, sugo, prosciutto e formaggio...) e richiudi la pallina. Metti palline di gusti diversi in una teglia rotonda, con un pó di spazio tra l'una e l'altra. Lascia lievitare e metti in forno a 220°.
 	- per i ==grissini==, stendi l’impasto appena lavorato ad uno spessore di circa 2 cm per formare un rettangolo. Usando una rotella, taglia delle strisce di impasto spesse mezzo cm, disponile su una teglia a lievitare, poi inforna a 220° per 10 min.
-
-![IMG_20230116_171224.jpg](/img/user/999%20Embeds/IMG_20230116_171224.jpg)
