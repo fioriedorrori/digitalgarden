@@ -14,11 +14,10 @@
 - [ ] sedano
 - [ ] carota
 - [ ] cipolla bianca
-- [ ] cipolla
 - [ ] 100g patata gialla
 - [ ] olive taggiasche
 - [ ] pinoli
-- [ ] aneto
+- [ ] finocchietto
 ## Steps
 1. Taglia finemente la patata con l’affettatrice e immergile in acqua fredda.
 2. Spremi il melograno, passalo con il colino e metti sul fuoco a ridurre di metà. Togli dal fuoco e aggiungi mezzo cucchiaino di farina per addensare.
@@ -26,4 +25,6 @@
 4. Sbollenta le carote in acqua bollente per 30 sec, poi rosola in padella insieme alle zucchine, sedano e cipolle.
 5. Tosta i pinoli su una padella a parte.
 6. Massaggia il filetto di merluzzo con sale, pepe e olio da entrambi i lati. Disponilo su una teglia da forno con carta da forno e un filo d’olio, ricoprilo con le fettine di patata (per non seccare la superficie) e inforna a 180° per 8-10 min con cottura mista.
-7. Servire in barattolini di vetro, mettendo prima olive e verdure a cubetti, poi un pezzo di merluzzo, verdure a fiammifero, salsa di melograno, pinoli tostati, semi di sesamo e un rametto di aneto.
+7. Servi in barattolini di vetro, mettendo prima olive e verdure a cubetti, poi un pezzo di merluzzo, verdure a fiammifero, salsa di melograno, pinoli tostati, semi di sesamo e un rametto di finocchietto.
+
+**Sistema di cottura:** conduzione, convezione
