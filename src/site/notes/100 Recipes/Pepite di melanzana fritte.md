@@ -5,9 +5,9 @@
 # Pepite di melanzana fritte
 ## Ingredients
 - [ ] 1kg melanzane
-- [ ] 3 uova
+- [ ] 1 uovo
 - [ ] 100g formaggio grattugiato
-- [ ] 300g pangrattato
+- [ ] 200g pangrattato
 - [ ] basilico
 - [ ] prezzemolo
 - [ ] sale
@@ -19,3 +19,6 @@
 3. Una volta cotte, usa un cucchiaio per scavare la polpa della melanzana e rimuovere la buccia. 
 4. Frulla la polpa con il frullatore a immersione, poi mescola con il formaggio, le uova e le erbe. Aggiusta anche di sale e pepe. Mescola bene il composto finché è omogeneo. Se risulta troppo liquido, aggiungi pangrattato.
 5. Forma delle piccole palline e passale nel pangrattato.
+6. Friggi in olio di arachidi caldo.
+
+**Sistema di cottura:** conduzione, convezione
